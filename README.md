@@ -5,7 +5,7 @@
 - Low cost: Open source costs with enterprise grade quality. Lower your TCO with flexible subscription fees. (Ref: http://altibase.com/product/low-cost-database/ )
 
 ### License:
-- Altibase is an open source with GNU Affero General Public License version 3(AGPLv3) for the Altibase server code and GNU Lesser General Public License version 3(LGPLv3) for the Altibase client code. 
+- Altibase is an open source with GNU Affero General Public License version 3(GNU AGPLv3) for the Altibase server code and GNU Lesser General Public License version 3(GNU LGPLv3) for the Altibase client code. 
 - While Altibase is free, we provide a paid support subscription for those who wish to have professional support.
 - License information can be found in the COPYING files.
 
