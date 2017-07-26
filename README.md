@@ -4,11 +4,6 @@
 - Relational DBMS: Function and feature rich with all the tools and relational capabilities expected and required by enterprise grade applications. Enjoy the benefits without radically changing your applications. (Ref: http://altibase.com/product/relational-database/ )
 - Low cost: Open source costs with enterprise grade quality. Lower your TCO with flexible subscription fees. (Ref: http://altibase.com/product/low-cost-database/ )
 
-### License:
-- Altibase is an open source with GNU Affero General Public License version 3(GNU AGPLv3) for the Altibase server code and GNU Lesser General Public License version 3(GNU LGPLv3) for the Altibase client code. 
-- While Altibase is free, we provide a paid support subscription for those who wish to have professional support.
-- License information can be found in the COPYING files.
-
 ### Help:
 - http://altibase.com/resources/
 - http://altibase.com/services/support/
@@ -18,3 +13,8 @@
 ### Q&A and Bug Reports:
 - Q&A and bug reports regarding Altibase should be submitted at http://jira.altibase.com
 - The code for Altibase can be found at: https://github.com/Altibase
+
+### License:
+- Altibase is an open source with GNU Affero General Public License version 3(GNU AGPLv3) for the Altibase server code and GNU Lesser General Public License version 3(GNU LGPLv3) for the Altibase client code. 
+- While Altibase is free, we provide a paid support subscription for those who wish to have professional support.
+- License information can be found in the COPYING files.
